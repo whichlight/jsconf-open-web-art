@@ -1,1 +1,1 @@
-my robotsconf talk, built with reveal.js
+my makerland talk, built with reveal.js. http://makerland.org
