@@ -11,12 +11,12 @@
  * GLOBAL STYLES
  *********************************************/
 body {
-  background: #C9FFD6;
-  background-color: #C9FFD6; }
+  background: #380036;
+   }
 
 #outline{
    z-index:10;
-   color:#FFFFFF;
+   color:#00FBFF;
 }
 
 iframe{
@@ -28,7 +28,8 @@ iframe{
   font-size: 36px;
   font-weight: normal;
   letter-spacing: -0.02em;
-  color: #0D6322; }
+   color:#00FBFF;
+   }
 
 ::selection {
   color: white;
@@ -45,7 +46,8 @@ iframe{
 .reveal h5,
 .reveal h6 {
   margin: 0 0 20px 0;
-  color: #0D6322;
+   color:#00FBFF;
+
   font-family: 'Varela Round', sans-serif;
   line-height: 0.9em;
   letter-spacing: 0.02em;
@@ -60,7 +62,7 @@ iframe{
  *********************************************/
 .reveal a:not(.image) {
 
-  color: #0D6322;
+   color:#00FBFF;
   text-decoration: none;
   -webkit-transition: color .15s ease;
   -moz-transition: color .15s ease;
@@ -69,7 +71,7 @@ iframe{
   transition: color .15s ease; }
 
 .reveal a:not(.image):hover {
-  color: #0000f1;
+   color:#00FBFF;
   text-shadow: none;
   border: none; }
 
